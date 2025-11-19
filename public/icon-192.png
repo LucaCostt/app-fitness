@@ -1,0 +1,20 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="48" fill="url(#gradient)"/>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="192" y2="192">
+      <stop offset="0%" stop-color="#9333ea"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Dumbbell Icon -->
+  <g transform="translate(48, 68)">
+    <rect x="0" y="15" width="15" height="30" rx="3" fill="white"/>
+    <rect x="81" y="15" width="15" height="30" rx="3" fill="white"/>
+    <rect x="15" y="26" width="66" height="8" rx="2" fill="white"/>
+    <circle cx="7.5" cy="22.5" r="6" fill="white"/>
+    <circle cx="7.5" cy="37.5" r="6" fill="white"/>
+    <circle cx="88.5" cy="22.5" r="6" fill="white"/>
+    <circle cx="88.5" cy="37.5" r="6" fill="white"/>
+  </g>
+</svg>
